@@ -47,6 +47,10 @@ button {
   width: fit-content;
 }
 
+abbr {
+  text-decoration: none;
+}
+
 .habits {
   margin-top: 60px;
   display: flex;
